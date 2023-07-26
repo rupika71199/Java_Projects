@@ -64,6 +64,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>bitespeed-identify-reconcillation</finalName>
 	</build>
 
 </project>

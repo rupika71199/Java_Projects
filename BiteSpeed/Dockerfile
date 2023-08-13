@@ -1,3 +1,3 @@
 FROM openjdk:17
-COPY target/BiteSpeed.jar BiteSpeed.jar
-ENTRYPOINT ["java","-jar","/BiteSpeed.jar"]
+COPY target/bitespeed.jar bitespeed.jar
+ENTRYPOINT ["java","-jar","/bitespeed.jar"]

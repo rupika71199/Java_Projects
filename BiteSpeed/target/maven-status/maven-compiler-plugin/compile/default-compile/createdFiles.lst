@@ -1,1 +1,7 @@
+com\example\BiteSpeed\Service\ContactServiceImplementation.class
+com\example\BiteSpeed\Repository\ContactRepository.class
 com\example\BiteSpeed\BiteSpeedApplication.class
+com\example\BiteSpeed\Controller\ContactController.class
+com\example\BiteSpeed\Entity\ContactEntity.class
+com\example\BiteSpeed\Service\ContactService.class
+com\example\BiteSpeed\Entity\ContactResponse.class

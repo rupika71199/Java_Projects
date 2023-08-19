@@ -1,7 +1,7 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://app_db:3306/bite
+    url: jdbc:mysql://app_db:3306/bite?useSSL=false&allowPublicKeyRetrieval=true
     username: rupikaroot
     password: root
     initialization-mode: always
